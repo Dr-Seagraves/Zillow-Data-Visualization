@@ -4,7 +4,7 @@ This repository is a simple starter template that shows how to build basic
 data visualizations in Python using Zillow data. It includes a minimal
 download snippet and a list of charts you can create from the dataset.
 
-## Data Source
+## Data Source 
 
 - Main Zillow research data portal:
   https://www.zillow.com/research/data/
